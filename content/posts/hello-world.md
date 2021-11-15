@@ -1,7 +1,6 @@
 ---
 title: "Hello World"
 date: 2021-11-15T21:58:18+01:00
-author: [JeremyVyska]
 tags: ["AL", "DontNet", "Performance"]
 categories: ["Dev Practices", "Best Guidelines"]
 ---
